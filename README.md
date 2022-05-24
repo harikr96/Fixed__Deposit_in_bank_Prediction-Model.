@@ -71,7 +71,8 @@ Decision tree model: Accuracy score of 91%
 
 4. From the data we can see the most of the customer have no credit in default.
 
-5. Since it is a continous variable and the balance of different client will be different thats why we dont see any repeatation of balance in this particular data.
+5. Highest balance is above 1000000
+
 
 6. Most of the customer have housing loan.
 
@@ -82,12 +83,12 @@ Majority of the client are called on 20th of respective month mostly they are co
 
 9. The representatives have contacted the clients for an average for 90 hours and they have contacted most of the customer only ones.
  
-10.  Also we can deduce more clients are contacted by representatives were fresh clients for the fixed term.
+10.  Also we can deduce more clients are contacted by representatives were fresh clients for the        fixed term.
 
 
 
 
-    From the above data's one can make certain changes for the approaches;
+   # From the above data's one can make certain changes for the approaches;
 
 11. .Clients who are in the age of 30-40 should be contacted frequently and should be given more importance.
 
@@ -115,7 +116,7 @@ Majority of the client are called on 20th of respective month mostly they are co
   21. As a part of campaign clients having the age from 25-60 are contacted continously, with the      highest number of contact performed >60
   
   
-  22. client id 28050 who has good profile should be approached more often.Campaigning has done only one time.
+  22. client id 28050 who has good balance above 1000000 should be approached more                       often.Campaigning has done          only one time.
 
 
 23. clients who have no history of default in credit have chance for subscription
