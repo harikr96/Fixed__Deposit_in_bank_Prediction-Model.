@@ -24,17 +24,39 @@ and month of the call, etc. Given this information, your task is to predict if
 the client will subscribe to term deposit
 
 default =Credit in default.
+
 housing =Housing loan
+
 loan =Personal loan
+
 contact= Type of communication
+
 month =Contact month
+
 day_of_week= Day of week of contact
+
 duration =Contact duration
+
 campaign =number of contacts performed during this
 campaign to the client
+
 pdays =number of days that passed by after the client
 was last contacted
+
 previous= number of contacts performed before this
 campaign
+
 poutcome =outcome of the previous marketing campaign
+
 Subscribed= (target) has the client subscribed a term deposit?
+
+### Tools and libraries used: 
+
+Jupyter notebook, Python(NumPy, Pandas,
+Scikit-learn, Matplotlib, Seaborn, SciPy)
+
+## Machine learning algorithm used :
+
+Logistic regression ; Accuracy score of 88%
+Decision tree model: Accuracy score of 91%
+  
