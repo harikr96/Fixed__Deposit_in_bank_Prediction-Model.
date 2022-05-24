@@ -58,5 +58,6 @@ Scikit-learn, Matplotlib, Seaborn, SciPy)
 ## Machine learning algorithm used :
 
 Logistic regression ; Accuracy score of 88%
+
 Decision tree model: Accuracy score of 91%
   
