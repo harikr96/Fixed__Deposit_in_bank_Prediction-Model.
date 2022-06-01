@@ -61,7 +61,7 @@ Logistic regression ; Accuracy score of 88%
 
 Decision tree model: Accuracy score of 91%
   
-  # Inference from the dataset given:
+  # Inference from the Exploratory data analysis :
   
  1. From the data we can see the most of the customer have an age of 32
 
